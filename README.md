@@ -1,5 +1,5 @@
 <div align="center">
-🌟 Y O G E N D R A   M I S H R A
+🌟 YOGENDRA MISHRA
   <h1>
 Software Developer • Backend Engineer • Full Stack Engineer </h1>
 Building Secure, Scalable & High-Performance Applications
