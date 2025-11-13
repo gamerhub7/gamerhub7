@@ -33,8 +33,9 @@ To build products that solve real-world problems, are fast, secure, and scale ef
 ⚡ High-performance MongoDB queries
 
 🧩 Full Stack App Architecture
+<h3>
+✨ Highlights & Achievements</h3>
 
-✨ Highlights & Achievements
 🏆 Professional Achievements
 
 ⭐ Built Eagle Eye — a full real-time monitoring platform for device telemetry
@@ -155,12 +156,16 @@ CI/CD • Docker • Linux • Firebase • VS Code
 
 📫 Connect With Me
 
-📧 yogendramishrabetu@gmail.com
+📧Email: yogendramishrabetu@gmail.com
 
 🔗 LinkedIn: https://www.linkedin.com/in/yogendra-mishra-
 
 
+
+
 <div align="center">
+  <h1>
 ✨ “Dream. Build. Innovate. Repeat.”
 — YOGENDRA MISHRA
+    </h1>
  </div>
