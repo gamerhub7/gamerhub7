@@ -1,6 +1,7 @@
 <div align="center">
 🌟 Y O G E N D R A   M I S H R A
-Software Developer • Backend Engineer • Full Stack Engineer
+  <h1>
+Software Developer • Backend Engineer • Full Stack Engineer </h1>
 Building Secure, Scalable & High-Performance Applications
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=900&color=00FFC8&center=true&vCenter=true&width=850&lines=Software+Developer;Backend+Engineer+(FastAPI%2C+Python);MERN+Stack+Developer;Full+Stack+App+Architect;System+Design+%26+API+Design+Expert;IoT+%26+Real-Time+Dashboard+Builder;Tech+Explorer+%F0%9F%9A%80" /> </div>
 ⚡ Who Am I? (Developer Identity)
