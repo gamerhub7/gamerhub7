@@ -1,29 +1,124 @@
-### Hi there! I'm [Yogendra Mishra] 👋  
+💫 Hi, I'm Yogendra Mishra
+Software Developer | Backend Engineer | FastAPI | MERN Stack
 
-💻 **Software Developer | Nodejs | Expressjs | Reactjs | Next.js | TypeScript | Tailwind CSS | Strapi | Docker | MongoDb | Mysql**  
+Building secure, scalable, and user-focused applications.
 
----
+🚀 About Me
 
-🔭 **I’m currently working on:**  
-Building an online food expllorer website using **Next.js, TypeScript, Tailwind CSS, and gsap**.  
+I'm a Software Developer specializing in Python (FastAPI), React.js, TypeScript, and MongoDB.
+I love solving complex backend challenges and building reliable systems that scale.
 
-🌱 **I’m currently learning:**  
-- Advanced **backend development** with **Strapi & Docker**  
-- Performance optimization in ** React js**  
-- Scaling web applications  
+At Homenetics Technology Pvt. Ltd., I contributed to real-time monitoring tools, device management systems, Google API integration, and infrastructure security using WireGuard VPN.
 
-👯 **I’m looking to collaborate on:**  
-- Open-source projects in **JavaScript/TypeScript**  
-- Headless CMS & e-commerce platforms  
+I'm passionate about creating products that are not only functional but also robust, efficient, and user-centric.
 
-🤔 **I’m looking for help with:**  
-- **SEO & Performance tuning** for Reactjs applications  
-- **Efficient database design** for scalable e-commerce solutions  
+🛠️ Tech Stack
+Backend
 
-💬 **Ask me about:**  
-- Building web apps with **React.js + Tailwind CSS**  
-- API development with **Strapi & Docker**  
-- Setting up **CMS-driven** web applications  
+FastAPI
+
+Python
+
+MongoDB
+
+SQL Databases
+
+REST API Design
+
+Authentication (JWT, RBAC)
+
+Frontend
+
+React.js
+
+Next.js
+
+TypeScript
+
+Tailwind CSS
+
+GSAP Animations
+
+DevOps / Tools
+
+Docker
+
+WireGuard VPN
+
+Git & GitHub
+
+Postman
+
+Firebase
+
+Strapi CMS
+
+💼 Experience
+Homenetics Technology Pvt. Ltd.
+
+Software Developer (May 2024 – Present)
+Zirakpur, India
+
+Secured production infrastructure by deploying WireGuard VPN, enabling encrypted communication across distributed devices.
+
+Built and optimized RESTful APIs with FastAPI + MongoDB, improving performance and reliability.
+
+Developed real-time monitoring systems like the Eagle Eye dashboard to reduce device downtime.
+
+Integrated Google Maps & Location APIs for accurate device tracking.
+
+Maintained and scaled full-stack applications using TypeScript and Strapi.
+
+Software Intern (Feb 2024 – Apr 2024)
+
+Designed responsive web interfaces with HTML, CSS, JS.
+
+Built backend APIs with FastAPI and MongoDB.
+
+Ensured cross-browser compatibility and clean UX.
+
+📚 Education
+
+B.Tech in Computer Science & Engineering
+CGC College of Engineering, Landran (2020–2024)
+
+12th – Computer Science
+Kendriya Vidyalaya (2019–2020)
+
+🧪 Projects
+🔹 Event Management System (QR Ticketing + RBAC)
+
+Role-based access control
+
+QR code ticket generation & verification
+
+Admin dashboard for events and user management
+
+🔹 URL Shortener
+
+JWT auth
+
+Analytics tracking
+
+Custom short links
+
+Secure redirection
+
+🔹 Eagle Eye – Real-time Monitoring Tool
+
+Live device tracking
+
+Alerts & logs
+
+Optimized dashboard built for performance
+
+📜 Certifications
+
+C Language Training
+
+Python
+
+IEEE Member
 
 📫 **How to reach me:**  
 - **GitHub:** [@gamerhub7](https://github.com/gamerhub7)  
